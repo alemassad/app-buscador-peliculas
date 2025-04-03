@@ -1,12 +1,25 @@
-# React + Vite
+# App de Busquedas de peliculas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Una aplicación sencilla para buscar películas utilizando la API de [The Movie Database (TMDb)](https://www.themoviedb.org/).
 
-Currently, two official plugins are available:
+## Características
+- Buscar películas por título.
+- Ver detalles de cada película, incluyendo descripción y póster.
+- Interfaz intuitiva y fácil de usar.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Requisitos
+- Una cuenta en [TMDb](https://www.themoviedb.org/) para obtener una API Key.
+- Conexión a internet.
 
-## Expanding the ESLint configuration
+## Uso
+1. Ejecuta la aplicación.
+2. Ingresa el título de la película en la barra de búsqueda.
+3. Explora los resultados y selecciona una película para ver más detalles.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tecnologías utilizadas
+- Lenguaje: [JavaScript] 
+- Framework: [React]
+- API: [TMDb](https://www.themoviedb.org/)
+
+---
+¡Disfruta buscando tus películas favoritas! 🎬
